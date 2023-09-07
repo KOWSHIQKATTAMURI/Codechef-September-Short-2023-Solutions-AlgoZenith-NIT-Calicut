@@ -6,7 +6,7 @@ int main(){
 	cin >> t;
 	while(t--){
 	    int turns = 0;
-      int x, h;
+	    int x, h;
 	    cin >> x >> h;
 	    while(h > 0){
 	        if(turns <= 4){
